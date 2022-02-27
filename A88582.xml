@@ -1,0 +1,210 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Mr. Love his funeral sermon, preached by himself on the scaffold on Tower Hill, in the hearing of many thousand people, on Friday the two and twentieth day of this instant August. Divided into three parts; 1. The matter for which he suffered, 2. The cleering or justifying of himself. 3. His exhortation to the people.</title>
+            <author>Love, Christopher, 1618-1651.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1651</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 8 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A88582</idno>
+            <idno type="STC">Wing L3154</idno>
+            <idno type="STC">Thomason E640_17</idno>
+            <idno type="STC">ESTC R206675</idno>
+            <idno type="EEBO-CITATION">99865790</idno>
+            <idno type="PROQUEST">99865790</idno>
+            <idno type="VID">165928</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A88582)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 165928)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 98:E640[17])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Mr. Love his funeral sermon, preached by himself on the scaffold on Tower Hill, in the hearing of many thousand people, on Friday the two and twentieth day of this instant August. Divided into three parts; 1. The matter for which he suffered, 2. The cleering or justifying of himself. 3. His exhortation to the people.</title>
+                  <author>Love, Christopher, 1618-1651.</author>
+               </titleStmt>
+               <extent>[2], 6 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by Robert Wood,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1651.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Annotation on Thomason copy: "Aug 23".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Funeral sermons --  17th century.</term>
+               <term>Last words --  Early works to 1800.</term>
+               <term>Executions and executioners --  Early works to 1800.</term>
+               <term>Great Britain --  Commonwealth and Protectorate., 1659-1660 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-11</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-12</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-02</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2010-02</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2010-04</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:165928:1" rendition="simple:additions"/>
+            <!-- PDF PAGE 95 -->
+            <p>M<hi rend="sup">r.</hi> LOVE His Funeral SERMON, PREACHED By himſelf on the Scaffold on Tower Hill, in the hearing of many thouſand peo<g ref="char:EOLhyphen"/>ple, on Friday the two and twentieth day of this inſtant Auguſt.</p>
+            <p>Divided into three parts;
+<list>
+                  <item>1. The Matter for which he ſuffered,</item>
+                  <item>2. The Cleering or Juſtifying of himſelf.</item>
+                  <item>3. His Exhortation to the People.</item>
+               </list>
+            </p>
+            <p>WITH His Prayer immediately before his head was ſevered from his body; and other Remarkable Paſſages about his Death.</p>
+            <p>Publiſhed for general ſatisfaction.</p>
+            <p>LONDON, Printed by <hi>Robert Wood,</hi> 1651.</p>
+         </div>
+         <div type="to_the_reader">
+            <pb facs="tcp:165928:2"/>
+            <!-- PDF PAGE 96 -->
+            <pb facs="tcp:165928:2"/>
+            <!-- PDF PAGE 96 -->
+            <opener>
+               <salute>Reader,</salute>
+            </opener>
+            <p>
+               <seg rend="decorInit">B</seg>Efore I enter upon the ſubſtance of Mr <hi>Love</hi>'s laſt Sermon or Speech up<g ref="char:EOLhyphen"/>on the Scaffold, thou art to take no<g ref="char:EOLhyphen"/>tice of the Parliaments lenity, in reſpi<g ref="char:EOLhyphen"/>ting his Execution near upon 6 weeks after the time firſt limited or appointed for him to ſuffer. During which time (though much means was uſed to ſave his life by others) himſelf continu<g ref="char:EOLhyphen"/>ed in his former way of juſtification of his own in<g ref="char:EOLhyphen"/>nocency, notwithſtanding the teſtimony of 8 Wit<g ref="char:EOLhyphen"/>neſſes at his trial, againſt whom could be no excep<g ref="char:EOLhyphen"/>tion. So that for his own part in ſtead of uſing lau<g ref="char:EOLhyphen"/>dable means to preſerve his life, he rather (to out<g ref="char:EOLhyphen"/>ward appearance at the leaſt) did chuſe to die without without giving reall ſatisfaction to the world, that it was not as well to ſatisfie his own ob<g ref="char:EOLhyphen"/>ſtinate will, as juſtly to ſuffer the ſentence renoun<g ref="char:EOLhyphen"/>ced againſt him.</p>
+            <p>On <hi>Tueſday</hi> laſt the Parliament ordered that Mr. <hi>Love</hi> ſhould be no longer reprieved, and that the High Court of Juſtice ſhould have notice of this order, whereupon the High-Court of Juſtice met on <hi>Wedneſday</hi> ſigned warrants. for his execution on <hi>Fryday</hi> following, between the hours of twelve at noon, and ſix at night.</p>
+            <p>
+               <pb n="2" facs="tcp:165928:3"/>
+               <!-- PDF PAGE 97 -->
+In purſuance of which Warrants, the Lievte<g ref="char:EOLhyphen"/>nant of the Tower this preſent <hi>Friday</hi> being the twenty two of <hi>Auguſt,</hi> delivered him to the Sheriffs of <hi>London</hi> at the Tower Gate, from whence being accompanied along by Mr. <hi>Calomy,</hi> he came to the Scaffold on the <hi>Tower</hi> Hill; and being upon the Scaffold, after he had ſaluted many friends there<g ref="char:EOLhyphen"/>on, he turned himſelf to the people, and leaning over the Rayle amongſt others, he uttered theſe words following.</p>
+         </div>
+      </front>
+      <body>
+         <div type="scaffold_speech">
+            <head>Mr. LOVE his Funeral Sermon, or an abſtract of his laſt words upon the Scaffold on Tower Hill immediately before his Execution on Friday the twenty two of Au<g ref="char:EOLhyphen"/>guſt, 1651.</head>
+            <opener>
+               <salute>Beloved,</salute>
+            </opener>
+            <p>BEfore I lay my Neck upon the Block, I ſhall ſay ſome thing concerning the occaſion of my coming hither as you ſee this day. Then he ſaid he ſhould divide that which he had to declare into three parts.</p>
+            <p>
+               <pb n="3" facs="tcp:165928:3"/>
+               <!-- PDF PAGE 97 -->
+Firſt, touching the matter for which he ſuffer<g ref="char:EOLhyphen"/>ed.</p>
+            <p>Secondly, the cleering of himſelf.</p>
+            <p>And thirdly, The diſcharging of himſelf of all kind of ranker or hatred againſt any; with ſome Exhortations to the people.</p>
+            <p>He perſiſted in the ſame way as he was in dure<g ref="char:EOLhyphen"/>ing his Tryall, taking God to record, That he wrote no <hi>Letters,</hi> or gave direction for any to be written; Yet it was proved, and acknowledged by himſelf, That he did ſee <hi>Letters</hi> written, and was privy to their ſending away.</p>
+            <p>He likewiſe called God to Record, That he collected no money for the <hi>Scots</hi> deſign; yet was there money collected and laid down before him, and afterwards ſent away: and if this kind of equivocating can cleer him of the guilt, let any indifferent man judge; yet he ſaid there was not any one thing prooved againſt him which was capital.</p>
+            <p>He inſtanced many Scriptures, and com<g ref="char:EOLhyphen"/>pared himſelf by way of Innocency, to Ie<g ref="char:EOLhyphen"/>remiah, ſaying, That he was as guiltleſſe as that Prophet who was charged (though in another caſe) with Conſpirancy. He ſaid it had been the lot of many of the Saints of God to be beheaded, and freely forgave all his proſecutors, ſaying, That the worſt he wiſht to any of them, was, That their ſoules might meet him in heaven.</p>
+            <p>
+               <pb n="4" facs="tcp:165928:4"/>
+               <!-- PDF PAGE 98 -->
+Mr, <hi>Love</hi> alſo ſaid that the Scaffold was the beſt Pulpit that ever he preached in, in all his life; for that from thence he ſhould not deſcend but aſcend and mount up into heaven.</p>
+            <p>One thing more very obſervable is that although he denied compliancy with the Scots by writing or ſupply of money; yet he confeſſed that he had both written to Major Gen. <hi>Maſsey,</hi> and ſent money to him.</p>
+            <p>He exhorts the people in a general way, to the ſervice of God, and ſo concluded with this prayer. Mr. <hi>Love</hi> having ended his ſpeech or ſer<g ref="char:EOLhyphen"/>mon, began his prayer ſtanding at the rail thus.</p>
+            <p>
+               <q>O Lord God I thy unwor<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>hy creature being at the laſt g<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ſp of breath do here humbly pro<g ref="char:EOLhyphen"/>ſtrate my ſelf unto thee hoping in the merits of Jeſus Chriſt my Saviou<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> 
+                  <gap reason="illegible" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>d Redeemer that thou wilt have mercy on m<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>, <gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>nd <gap reason="illegible" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> beſeech thee not onely for my ſelf but for him that is to die with me, and I hope my prayers will prevail as our ſaviour did for the theef upon the Croſſe, and that thou wilt be ſo mercifull to us, that we may both meet in thy eternal Kingdome I do here declare as a dying man that I have always been for magiſt<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>acy and government, and do humbly       beſeech thee that thou wilt not lay to the charge of this people their ſlightning of the
+<pb n="5" facs="tcp:165928:4"/>
+                  <!-- PDF PAGE 98 -->Miniſtry of the Goſpel of Jeſus Chriſt, and trampling down his Miniſters, I do freely from my ſoul forgive all the world, as I deſire God for Chriſts his ſake to forgive me.</q>
+            </p>
+            <p>Much more to this effect was uttered by him; and his prayer being ended, he imme<g ref="char:EOLhyphen"/>diately began t<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> unbutton the collor of his Doublet, and turning about, came to the Sheriff, bowed very low to him, and ſhaking him by the hand, took his leave of him: He then laid his hand, upon the Executioner, ſaying, Friend, I forgive thee. Then his Doublet being off, he put up his hair under his Cap, and at once ſettling himſelf down on the Block, he preſently (without raiſing himſelf again) gave the ſignal, with which the Executioner ſevered his head from his body at one blow.</p>
+            <p>His body was preſently taken up, and put into a Coffin ready prepared, and carried to his own houſe: Mr. Dun the Chirurgian went with it, and afterwards ſowed the Head to the body.</p>
+            <p>After th<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>s Mr. Gibbons was brought upon the Scaffold, he was about four or fi<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ve and twenty years of age, and he for<g ref="char:EOLhyphen"/>merly
+<pb n="6" facs="tcp:165928:5"/>
+               <!-- PDF PAGE 99 -->had been ſervant to Mr. <hi>Hollis,</hi> he made a ſpeech to the people confeſſing and ſaying, that he had been miſled by wicked councellors, and ſeemed very pen<g ref="char:EOLhyphen"/>nitent and ſorrowful that he had falſly be<g ref="char:EOLhyphen"/>trayed his truſt; he made many ſtops, the tears trickling down his c<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>eek<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>, he made this confeſſion of his henious crime and guilt, (as he ſaid) to clear his conſcience, and to the end that the world might take notice thereof, and take warning, and that no aſperſion fall on himſelf or or others after his death. He took notice of Mr. <hi>Loves</hi> being executed before him, and ſaid, that he was confident he was with his Saviour, with whom he had ſure and con<g ref="char:EOLhyphen"/>fident hopes to be within few minuits: Yet towards the concluſion of his ſpeech, ſome words paſſed from him which ſa<g ref="char:EOLhyphen"/>vored of ranckor, for which he was gent<g ref="char:EOLhyphen"/>ly admoniſhed by the Shreiff, and when had made an end of his ſpeech he made a ſhort prayer, recommending his ſoul into the hands of Jeſus Chriſt and ſo commit<g ref="char:EOLhyphen"/>ted himſelf to the block.</p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
